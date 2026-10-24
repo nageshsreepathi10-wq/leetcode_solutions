@@ -5,8 +5,28 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-24T11:47:53.644Z",
+  "updatedAt": "2026-10-24T11:48:25.205Z",
   "problems": [
+    {
+      "frontendId": "4",
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "problemName": "0004-median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "folderPath": "0004-median-of-two-sorted-arrays/",
+      "readmePath": "0004-median-of-two-sorted-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0004-median-of-two-sorted-arrays.py",
+          "path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.py",
+          "sha": "f727a3fb1ada074664977e3078ad79538bcb5920",
+          "lastSyncedAt": "2026-10-24T11:48:25.205Z"
+        }
+      ]
+    },
     {
       "frontendId": "268",
       "title": "Missing Number",
