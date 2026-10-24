@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-24T11:49:09.651Z",
+  "updatedAt": "2026-10-24T11:49:47.689Z",
   "problems": [
     {
       "frontendId": "15",
@@ -24,6 +24,26 @@
           "path": "0015-3sum/0015-3sum.py",
           "sha": "acd1ec7106e31e18705cf37228fce9b35d5164d3",
           "lastSyncedAt": "2026-10-24T11:49:09.651Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "problemName": "0169-majority-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+      "folderPath": "0169-majority-element/",
+      "readmePath": "0169-majority-element/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0169-majority-element.py",
+          "path": "0169-majority-element/0169-majority-element.py",
+          "sha": "79564d895443afabd046d3e7d954524d7168b320",
+          "lastSyncedAt": "2026-10-24T11:49:47.689Z"
         }
       ]
     },
