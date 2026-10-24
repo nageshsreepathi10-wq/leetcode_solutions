@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "counting",
+    "name": "Counting",
+    "tagId": "61062"
+  },
+  "updatedAt": "2026-10-24T11:46:02.408Z",
+  "problems": [
+    {
+      "frontendId": "347",
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "problemName": "0347-top-k-frequent-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
+      "folderPath": "0347-top-k-frequent-elements/",
+      "readmePath": "0347-top-k-frequent-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0347-top-k-frequent-elements.py",
+          "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.py",
+          "sha": "5277ec171b5c1d262efb784aa4591d308876ec97",
+          "lastSyncedAt": "2026-10-24T11:46:02.408Z"
+        }
+      ]
+    }
+  ]
+}
