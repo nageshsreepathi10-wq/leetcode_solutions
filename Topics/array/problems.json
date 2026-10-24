@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-24T11:49:02.852Z",
+  "updatedAt": "2026-10-24T11:49:09.651Z",
   "problems": [
     {
       "frontendId": "4",
@@ -24,6 +24,26 @@
           "path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.py",
           "sha": "f727a3fb1ada074664977e3078ad79538bcb5920",
           "lastSyncedAt": "2026-10-24T11:48:25.205Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "15",
+      "title": "3Sum",
+      "slug": "3sum",
+      "problemName": "0015-3sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum/",
+      "folderPath": "0015-3sum/",
+      "readmePath": "0015-3sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0015-3sum.py",
+          "path": "0015-3sum/0015-3sum.py",
+          "sha": "acd1ec7106e31e18705cf37228fce9b35d5164d3",
+          "lastSyncedAt": "2026-10-24T11:49:09.651Z"
         }
       ]
     },
