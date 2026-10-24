@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-24T11:46:42.720Z",
+  "updatedAt": "2026-10-24T11:47:33.207Z",
   "problems": [
     {
       "frontendId": "242",
@@ -64,6 +64,26 @@
           "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.py",
           "sha": "7560289eb2414f5e141ed075baacb226af7b528c",
           "lastSyncedAt": "2026-10-24T11:46:42.720Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1807",
+      "title": "Evaluate the Bracket Pairs of a String",
+      "slug": "evaluate-the-bracket-pairs-of-a-string",
+      "problemName": "1807-evaluate-the-bracket-pairs-of-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/",
+      "folderPath": "1807-evaluate-the-bracket-pairs-of-a-string/",
+      "readmePath": "1807-evaluate-the-bracket-pairs-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1807-evaluate-the-bracket-pairs-of-a-string.py",
+          "path": "1807-evaluate-the-bracket-pairs-of-a-string/1807-evaluate-the-bracket-pairs-of-a-string.py",
+          "sha": "9e983bd586693ef27328c2320549e6b8a5180d20",
+          "lastSyncedAt": "2026-10-24T11:47:33.207Z"
         }
       ]
     }
