@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-24T11:48:50.596Z",
+  "updatedAt": "2026-10-24T11:49:02.852Z",
   "problems": [
     {
       "frontendId": "4",
@@ -84,6 +84,26 @@
           "path": "0268-missing-number/0268-missing-number.py",
           "sha": "64920fef5b34231efc23f0bfe3178b96f967fc01",
           "lastSyncedAt": "2026-10-24T11:47:53.644Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "283",
+      "title": "Move Zeroes",
+      "slug": "move-zeroes",
+      "problemName": "0283-move-zeroes",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/move-zeroes/",
+      "folderPath": "0283-move-zeroes/",
+      "readmePath": "0283-move-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0283-move-zeroes.py",
+          "path": "0283-move-zeroes/0283-move-zeroes.py",
+          "sha": "71368676cd040fc863f81bf1d39017ce447a082d",
+          "lastSyncedAt": "2026-10-24T11:49:02.852Z"
         }
       ]
     },
