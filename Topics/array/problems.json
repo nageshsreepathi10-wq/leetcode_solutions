@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-24T11:48:41.965Z",
+  "updatedAt": "2026-10-24T11:48:50.596Z",
   "problems": [
     {
       "frontendId": "4",
@@ -104,6 +104,26 @@
           "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.py",
           "sha": "5277ec171b5c1d262efb784aa4591d308876ec97",
           "lastSyncedAt": "2026-10-24T11:46:02.408Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1470",
+      "title": "Shuffle the Array",
+      "slug": "shuffle-the-array",
+      "problemName": "1470-shuffle-the-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shuffle-the-array/",
+      "folderPath": "1470-shuffle-the-array/",
+      "readmePath": "1470-shuffle-the-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1470-shuffle-the-array.py",
+          "path": "1470-shuffle-the-array/1470-shuffle-the-array.py",
+          "sha": "76852c7de38e467d29dcfbae8e555c122fe11df3",
+          "lastSyncedAt": "2026-10-24T11:48:50.596Z"
         }
       ]
     },
