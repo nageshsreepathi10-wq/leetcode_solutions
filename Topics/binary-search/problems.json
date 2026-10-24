@@ -5,8 +5,28 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-24T11:45:49.231Z",
+  "updatedAt": "2026-10-24T11:47:53.644Z",
   "problems": [
+    {
+      "frontendId": "268",
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "problemName": "0268-missing-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
+      "folderPath": "0268-missing-number/",
+      "readmePath": "0268-missing-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0268-missing-number.py",
+          "path": "0268-missing-number/0268-missing-number.py",
+          "sha": "64920fef5b34231efc23f0bfe3178b96f967fc01",
+          "lastSyncedAt": "2026-10-24T11:47:53.644Z"
+        }
+      ]
+    },
     {
       "frontendId": "2089",
       "title": "Find Target Indices After Sorting Array",
