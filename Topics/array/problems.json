@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-24T11:48:33.552Z",
+  "updatedAt": "2026-10-24T11:48:41.965Z",
   "problems": [
     {
       "frontendId": "4",
@@ -124,6 +124,26 @@
           "path": "1807-evaluate-the-bracket-pairs-of-a-string/1807-evaluate-the-bracket-pairs-of-a-string.py",
           "sha": "9e983bd586693ef27328c2320549e6b8a5180d20",
           "lastSyncedAt": "2026-10-24T11:47:33.207Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1929",
+      "title": "Concatenation of Array",
+      "slug": "concatenation-of-array",
+      "problemName": "1929-concatenation-of-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/concatenation-of-array/",
+      "folderPath": "1929-concatenation-of-array/",
+      "readmePath": "1929-concatenation-of-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1929-concatenation-of-array.py",
+          "path": "1929-concatenation-of-array/1929-concatenation-of-array.py",
+          "sha": "c6ef36a81e4ec660689c5f214b1ca932d7caaba1",
+          "lastSyncedAt": "2026-10-24T11:48:41.965Z"
         }
       ]
     },
