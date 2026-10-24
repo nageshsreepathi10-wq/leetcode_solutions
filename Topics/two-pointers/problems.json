@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-24T11:48:55.800Z",
+  "updatedAt": "2026-10-24T11:49:02.852Z",
   "problems": [
     {
       "frontendId": "27",
@@ -64,6 +64,26 @@
           "path": "0151-reverse-words-in-a-string/0151-reverse-words-in-a-string.py",
           "sha": "710a5d54c5dc8e470d1f38bc55846473af372707",
           "lastSyncedAt": "2026-10-24T11:47:46.800Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "283",
+      "title": "Move Zeroes",
+      "slug": "move-zeroes",
+      "problemName": "0283-move-zeroes",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/move-zeroes/",
+      "folderPath": "0283-move-zeroes/",
+      "readmePath": "0283-move-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0283-move-zeroes.py",
+          "path": "0283-move-zeroes/0283-move-zeroes.py",
+          "sha": "71368676cd040fc863f81bf1d39017ce447a082d",
+          "lastSyncedAt": "2026-10-24T11:49:02.852Z"
         }
       ]
     },
