@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-24T11:48:25.205Z",
+  "updatedAt": "2026-10-24T11:49:18.102Z",
   "problems": [
     {
       "frontendId": "4",
@@ -24,6 +24,26 @@
           "path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.py",
           "sha": "f727a3fb1ada074664977e3078ad79538bcb5920",
           "lastSyncedAt": "2026-10-24T11:48:25.205Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "167",
+      "title": "Two Sum II - Input Array Is Sorted",
+      "slug": "two-sum-ii-input-array-is-sorted",
+      "problemName": "0167-two-sum-ii-input-array-is-sorted",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+      "folderPath": "0167-two-sum-ii-input-array-is-sorted/",
+      "readmePath": "0167-two-sum-ii-input-array-is-sorted/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0167-two-sum-ii-input-array-is-sorted.py",
+          "path": "0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.py",
+          "sha": "8ca9a0315947828ec6956511cc4fef454fc48d96",
+          "lastSyncedAt": "2026-10-24T11:49:18.102Z"
         }
       ]
     },
