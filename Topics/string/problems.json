@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-24T11:47:46.800Z",
+  "updatedAt": "2026-10-24T11:48:55.800Z",
   "problems": [
     {
       "frontendId": "38",
@@ -84,6 +84,26 @@
           "path": "0242-valid-anagram/0242-valid-anagram.py",
           "sha": "5f8fc3d083b3b14c2382e403dfd6dcac43c9bdae",
           "lastSyncedAt": "2026-10-24T11:46:32.115Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "344",
+      "title": "Reverse String",
+      "slug": "reverse-string",
+      "problemName": "0344-reverse-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-string/",
+      "folderPath": "0344-reverse-string/",
+      "readmePath": "0344-reverse-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0344-reverse-string.py",
+          "path": "0344-reverse-string/0344-reverse-string.py",
+          "sha": "c040dc58dc93fa983602201393721dadb21ea06e",
+          "lastSyncedAt": "2026-10-24T11:48:55.800Z"
         }
       ]
     },
