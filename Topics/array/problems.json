@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-24T11:49:34.613Z",
+  "updatedAt": "2026-10-24T11:49:42.020Z",
   "problems": [
     {
       "frontendId": "4",
@@ -204,6 +204,26 @@
           "path": "0724-find-pivot-index/0724-find-pivot-index.py",
           "sha": "87c7a9cf4b10cab5a42e9f9193ec5afa91f1cf35",
           "lastSyncedAt": "2026-10-24T11:49:27.209Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1431",
+      "title": "Kids With the Greatest Number of Candies",
+      "slug": "kids-with-the-greatest-number-of-candies",
+      "problemName": "1431-kids-with-the-greatest-number-of-candies",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/",
+      "folderPath": "1431-kids-with-the-greatest-number-of-candies/",
+      "readmePath": "1431-kids-with-the-greatest-number-of-candies/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1431-kids-with-the-greatest-number-of-candies.py",
+          "path": "1431-kids-with-the-greatest-number-of-candies/1431-kids-with-the-greatest-number-of-candies.py",
+          "sha": "c21a1f5ddfa35d9ec1d8ac88a00584c5d4315e73",
+          "lastSyncedAt": "2026-10-24T11:49:42.020Z"
         }
       ]
     },
