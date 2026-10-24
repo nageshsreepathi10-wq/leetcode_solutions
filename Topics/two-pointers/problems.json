@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-24T11:49:09.651Z",
+  "updatedAt": "2026-10-24T11:49:18.102Z",
   "problems": [
     {
       "frontendId": "15",
@@ -84,6 +84,26 @@
           "path": "0151-reverse-words-in-a-string/0151-reverse-words-in-a-string.py",
           "sha": "710a5d54c5dc8e470d1f38bc55846473af372707",
           "lastSyncedAt": "2026-10-24T11:47:46.800Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "167",
+      "title": "Two Sum II - Input Array Is Sorted",
+      "slug": "two-sum-ii-input-array-is-sorted",
+      "problemName": "0167-two-sum-ii-input-array-is-sorted",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+      "folderPath": "0167-two-sum-ii-input-array-is-sorted/",
+      "readmePath": "0167-two-sum-ii-input-array-is-sorted/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0167-two-sum-ii-input-array-is-sorted.py",
+          "path": "0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.py",
+          "sha": "8ca9a0315947828ec6956511cc4fef454fc48d96",
+          "lastSyncedAt": "2026-10-24T11:49:18.102Z"
         }
       ]
     },
