@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-24T11:47:53.644Z",
+  "updatedAt": "2026-10-24T11:48:17.685Z",
   "problems": [
     {
       "frontendId": "268",
@@ -24,6 +24,26 @@
           "path": "0268-missing-number/0268-missing-number.py",
           "sha": "64920fef5b34231efc23f0bfe3178b96f967fc01",
           "lastSyncedAt": "2026-10-24T11:47:53.644Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3550",
+      "title": "Smallest Index With Digit Sum Equal to Index",
+      "slug": "smallest-index-with-digit-sum-equal-to-index",
+      "problemName": "3550-smallest-index-with-digit-sum-equal-to-index",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/",
+      "folderPath": "3550-smallest-index-with-digit-sum-equal-to-index/",
+      "readmePath": "3550-smallest-index-with-digit-sum-equal-to-index/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3550-smallest-index-with-digit-sum-equal-to-index.py",
+          "path": "3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.py",
+          "sha": "b8be9179c27da2ad759a8fc7787952cfb30dd62c",
+          "lastSyncedAt": "2026-10-24T11:48:17.685Z"
         }
       ]
     },
