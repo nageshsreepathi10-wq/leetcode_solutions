@@ -5,8 +5,28 @@
     "name": "Quicksort",
     "tagId": "68362"
   },
-  "updatedAt": "2026-10-24T11:50:21.005Z",
+  "updatedAt": "2026-10-25T06:27:36.765Z",
   "problems": [
+    {
+      "frontendId": "75",
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "problemName": "0075-sort-colors",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
+      "folderPath": "0075-sort-colors/",
+      "readmePath": "0075-sort-colors/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0075-sort-colors.py",
+          "path": "0075-sort-colors/0075-sort-colors.py",
+          "sha": "922a7399e1fc6e51febe199ee4b56a182450bcec",
+          "lastSyncedAt": "2026-10-25T06:27:36.765Z"
+        }
+      ]
+    },
     {
       "frontendId": "1913",
       "title": "Maximum Product Difference Between Two Pairs",
