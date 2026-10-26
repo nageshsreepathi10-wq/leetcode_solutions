@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-26T09:17:15.860Z",
+  "updatedAt": "2026-10-26T15:54:50.867Z",
   "problems": [
     {
       "frontendId": "4",
@@ -64,6 +64,26 @@
           "path": "0268-missing-number/0268-missing-number.py",
           "sha": "64920fef5b34231efc23f0bfe3178b96f967fc01",
           "lastSyncedAt": "2026-10-24T11:47:53.644Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "704",
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "problemName": "0704-binary-search",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-search/",
+      "folderPath": "0704-binary-search/",
+      "readmePath": "0704-binary-search/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0704-binary-search.py",
+          "path": "0704-binary-search/0704-binary-search.py",
+          "sha": "e11eceb4529bfce3d0abf256cdb7703077d8e4ef",
+          "lastSyncedAt": "2026-10-26T15:54:50.867Z"
         }
       ]
     },
