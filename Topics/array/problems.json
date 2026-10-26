@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-26T09:17:15.860Z",
+  "updatedAt": "2026-10-26T15:54:50.867Z",
   "problems": [
     {
       "frontendId": "4",
@@ -244,6 +244,26 @@
           "path": "0448-find-all-numbers-disappeared-in-an-array/0448-find-all-numbers-disappeared-in-an-array.py",
           "sha": "5cfd83af15862ba64f9097fd517516fe114e3f7c",
           "lastSyncedAt": "2026-10-24T11:49:34.613Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "704",
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "problemName": "0704-binary-search",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-search/",
+      "folderPath": "0704-binary-search/",
+      "readmePath": "0704-binary-search/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0704-binary-search.py",
+          "path": "0704-binary-search/0704-binary-search.py",
+          "sha": "e11eceb4529bfce3d0abf256cdb7703077d8e4ef",
+          "lastSyncedAt": "2026-10-26T15:54:50.867Z"
         }
       ]
     },
