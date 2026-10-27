@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 31 | 21 | 9 | 1 |
+| 32 | 22 | 9 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 8 days | 15 |
+| 3 days | 8 days | 16 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-06 | 1 |
 | 2026-09-20 | 1 |
 | 2026-09-21 | 1 |
 | 2026-09-22 | 8 |
@@ -29,28 +28,29 @@ Contains topicwise list of solved problems.
 | 2026-10-21 | 1 |
 | 2026-10-25 | 1 |
 | 2026-10-26 | 1 |
+| 2026-10-27 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 23 | 74% |
-| Sorting | 10 | 32% |
-| String | 9 | 29% |
-| Two Pointers | 9 | 29% |
-| Hash Table | 8 | 26% |
-| Binary Search | 5 | 16% |
-| Counting | 3 | 10% |
-| Divide and Conquer | 3 | 10% |
+| Array | 23 | 72% |
+| Sorting | 10 | 31% |
+| String | 9 | 28% |
+| Two Pointers | 9 | 28% |
+| Hash Table | 8 | 25% |
+| Binary Search | 6 | 19% |
+| Counting | 3 | 9% |
+| Divide and Conquer | 3 | 9% |
+| Math | 3 | 9% |
 | Bit Manipulation | 2 | 6% |
-| Bucket Sort | 2 | 6% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Array](Topics/array/) | 24 |
-| [Binary Search](Topics/binary-search/) | 5 |
+| [Binary Search](Topics/binary-search/) | 6 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
@@ -62,8 +62,9 @@ Contains topicwise list of solved problems.
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 8 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
-| [Math](Topics/math/) | 3 |
+| [Math](Topics/math/) | 4 |
 | [Matrix](Topics/matrix/) | 1 |
+| [Newton's Method](Topics/newtons-method/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Quicksort](Topics/quicksort/) | 2 |
