@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-27T10:33:49.726Z",
+  "updatedAt": "2026-10-27T15:28:36.858Z",
   "problems": [
     {
       "frontendId": "4",
@@ -24,6 +24,26 @@
           "path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.py",
           "sha": "f727a3fb1ada074664977e3078ad79538bcb5920",
           "lastSyncedAt": "2026-10-26T09:17:15.860Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "69",
+      "title": "Sqrt(x)",
+      "slug": "sqrtx",
+      "problemName": "0069-sqrtx",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sqrtx/",
+      "folderPath": "0069-sqrtx/",
+      "readmePath": "0069-sqrtx/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0069-sqrtx.py",
+          "path": "0069-sqrtx/0069-sqrtx.py",
+          "sha": "c59beb3ccc15ca37628dbd1361a701d0e5d3ee39",
+          "lastSyncedAt": "2026-10-27T15:28:36.858Z"
         }
       ]
     },
