@@ -5,8 +5,28 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-24T11:48:17.685Z",
+  "updatedAt": "2026-10-27T15:28:36.858Z",
   "problems": [
+    {
+      "frontendId": "69",
+      "title": "Sqrt(x)",
+      "slug": "sqrtx",
+      "problemName": "0069-sqrtx",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sqrtx/",
+      "folderPath": "0069-sqrtx/",
+      "readmePath": "0069-sqrtx/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0069-sqrtx.py",
+          "path": "0069-sqrtx/0069-sqrtx.py",
+          "sha": "c59beb3ccc15ca37628dbd1361a701d0e5d3ee39",
+          "lastSyncedAt": "2026-10-27T15:28:36.858Z"
+        }
+      ]
+    },
     {
       "frontendId": "268",
       "title": "Missing Number",
