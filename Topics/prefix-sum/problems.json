@@ -5,8 +5,28 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-24T11:49:27.209Z",
+  "updatedAt": "2026-10-29T16:44:49.887Z",
   "problems": [
+    {
+      "frontendId": "560",
+      "title": "Subarray Sum Equals K",
+      "slug": "subarray-sum-equals-k",
+      "problemName": "0560-subarray-sum-equals-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subarray-sum-equals-k/",
+      "folderPath": "0560-subarray-sum-equals-k/",
+      "readmePath": "0560-subarray-sum-equals-k/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0560-subarray-sum-equals-k.py",
+          "path": "0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.py",
+          "sha": "19d3c20a4f4848721534ce7c8fef34fbbc8ba8d0",
+          "lastSyncedAt": "2026-10-29T16:44:49.887Z"
+        }
+      ]
+    },
     {
       "frontendId": "724",
       "title": "Find Pivot Index",
