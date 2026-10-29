@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 33 | 23 | 9 | 1 |
+| 34 | 24 | 9 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 8 days | 16 |
+| 1 days | 8 days | 17 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-20 | 1 |
 | 2026-09-21 | 1 |
 | 2026-09-22 | 8 |
 | 2026-09-23 | 4 |
@@ -29,15 +28,16 @@ Contains topicwise list of solved problems.
 | 2026-10-25 | 1 |
 | 2026-10-26 | 1 |
 | 2026-10-27 | 2 |
+| 2026-10-29 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 24 | 73% |
-| Sorting | 10 | 30% |
-| String | 9 | 27% |
-| Two Pointers | 9 | 27% |
+| Array | 25 | 74% |
+| Sorting | 10 | 29% |
+| String | 10 | 29% |
+| Two Pointers | 10 | 29% |
 | Hash Table | 8 | 24% |
 | Binary Search | 7 | 21% |
 | Counting | 3 | 9% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 25 |
+| [Array](Topics/array/) | 26 |
 | [Binary Search](Topics/binary-search/) | 7 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
@@ -71,6 +71,6 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 1 |
 | [Sorting](Topics/sorting/) | 10 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 9 |
-| [Two Pointers](Topics/two-pointers/) | 9 |
+| [String](Topics/string/) | 10 |
+| [Two Pointers](Topics/two-pointers/) | 10 |
 <!---LeetHub Summary End-->
