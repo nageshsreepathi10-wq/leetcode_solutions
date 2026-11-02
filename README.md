@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 37 | 25 | 11 | 1 |
+| 38 | 25 | 12 | 1 |
 
 ## Activity
 
@@ -28,19 +28,19 @@ Contains topicwise list of solved problems.
 | 2026-10-27 | 2 |
 | 2026-10-29 | 2 |
 | 2026-10-30 | 1 |
-| 2026-11-02 | 1 |
+| 2026-11-02 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 27 | 73% |
-| Sorting | 10 | 27% |
-| String | 10 | 27% |
-| Two Pointers | 10 | 27% |
+| Array | 27 | 71% |
+| Sorting | 10 | 26% |
+| String | 10 | 26% |
+| Two Pointers | 10 | 26% |
 | Hash Table | 9 | 24% |
-| Binary Search | 7 | 19% |
-| Math | 4 | 11% |
+| Binary Search | 7 | 18% |
+| Math | 5 | 13% |
 | Prefix Sum | 4 | 11% |
 | Counting | 3 | 8% |
 | Divide and Conquer | 3 | 8% |
@@ -62,7 +62,7 @@ Contains topicwise list of solved problems.
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 9 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
-| [Math](Topics/math/) | 5 |
+| [Math](Topics/math/) | 6 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 4 |
