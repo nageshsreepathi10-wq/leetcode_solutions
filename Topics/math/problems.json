@@ -5,8 +5,28 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-27T15:39:30.761Z",
+  "updatedAt": "2026-11-02T16:40:04.677Z",
   "problems": [
+    {
+      "frontendId": "9",
+      "title": "Palindrome Number",
+      "slug": "palindrome-number",
+      "problemName": "0009-palindrome-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-number/",
+      "folderPath": "0009-palindrome-number/",
+      "readmePath": "0009-palindrome-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0009-palindrome-number.py",
+          "path": "0009-palindrome-number/0009-palindrome-number.py",
+          "sha": "3af6283f8fe6faaa9037d97a83023e975e8f6224",
+          "lastSyncedAt": "2026-11-02T16:40:04.677Z"
+        }
+      ]
+    },
     {
       "frontendId": "69",
       "title": "Sqrt(x)",
