@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-27T16:07:59.901Z",
+  "updatedAt": "2026-11-05T11:36:57.354Z",
   "problems": [
     {
       "frontendId": "4",
@@ -124,6 +124,26 @@
           "path": "0704-binary-search/0704-binary-search.py",
           "sha": "e11eceb4529bfce3d0abf256cdb7703077d8e4ef",
           "lastSyncedAt": "2026-10-27T10:33:49.726Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1385",
+      "title": "Find the Distance Value Between Two Arrays",
+      "slug": "find-the-distance-value-between-two-arrays",
+      "problemName": "1385-find-the-distance-value-between-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays/",
+      "folderPath": "1385-find-the-distance-value-between-two-arrays/",
+      "readmePath": "1385-find-the-distance-value-between-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1385-find-the-distance-value-between-two-arrays.py",
+          "path": "1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.py",
+          "sha": "bbefb36f2d1dd758b5c292de3054ab32c0e59aba",
+          "lastSyncedAt": "2026-11-05T11:36:57.354Z"
         }
       ]
     },
