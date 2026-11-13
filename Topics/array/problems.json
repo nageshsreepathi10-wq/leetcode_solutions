@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-13T17:31:31.582Z",
+  "updatedAt": "2026-11-13T17:33:47.247Z",
   "problems": [
     {
       "frontendId": "4",
@@ -344,6 +344,26 @@
           "path": "0724-find-pivot-index/0724-find-pivot-index.py",
           "sha": "87c7a9cf4b10cab5a42e9f9193ec5afa91f1cf35",
           "lastSyncedAt": "2026-10-24T11:49:27.209Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "977",
+      "title": "Squares of a Sorted Array",
+      "slug": "squares-of-a-sorted-array",
+      "problemName": "0977-squares-of-a-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/squares-of-a-sorted-array/",
+      "folderPath": "0977-squares-of-a-sorted-array/",
+      "readmePath": "0977-squares-of-a-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0977-squares-of-a-sorted-array.py",
+          "path": "0977-squares-of-a-sorted-array/0977-squares-of-a-sorted-array.py",
+          "sha": "71bd68e60c4b384e722c0676b6a386b27b299a64",
+          "lastSyncedAt": "2026-11-13T17:33:47.247Z"
         }
       ]
     },
