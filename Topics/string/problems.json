@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-30T16:01:47.712Z",
+  "updatedAt": "2026-11-13T17:26:25.124Z",
   "problems": [
     {
       "frontendId": "38",
@@ -124,6 +124,26 @@
           "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.py",
           "sha": "7560289eb2414f5e141ed075baacb226af7b528c",
           "lastSyncedAt": "2026-10-24T11:46:42.720Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "709",
+      "title": "To Lower Case",
+      "slug": "to-lower-case",
+      "problemName": "0709-to-lower-case",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/to-lower-case/",
+      "folderPath": "0709-to-lower-case/",
+      "readmePath": "0709-to-lower-case/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0709-to-lower-case.py",
+          "path": "0709-to-lower-case/0709-to-lower-case.py",
+          "sha": "726932d1f86e76715bdcb56d32c8e611e12a5908",
+          "lastSyncedAt": "2026-11-13T17:26:25.124Z"
         }
       ]
     },
