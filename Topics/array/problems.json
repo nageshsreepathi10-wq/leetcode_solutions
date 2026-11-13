@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T11:36:57.354Z",
+  "updatedAt": "2026-11-13T17:31:31.582Z",
   "problems": [
     {
       "frontendId": "4",
@@ -444,6 +444,26 @@
           "path": "1807-evaluate-the-bracket-pairs-of-a-string/1807-evaluate-the-bracket-pairs-of-a-string.py",
           "sha": "9e983bd586693ef27328c2320549e6b8a5180d20",
           "lastSyncedAt": "2026-10-24T11:47:33.207Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1822",
+      "title": "Sign of the Product of an Array",
+      "slug": "sign-of-the-product-of-an-array",
+      "problemName": "1822-sign-of-the-product-of-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sign-of-the-product-of-an-array/",
+      "folderPath": "1822-sign-of-the-product-of-an-array/",
+      "readmePath": "1822-sign-of-the-product-of-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1822-sign-of-the-product-of-an-array.py",
+          "path": "1822-sign-of-the-product-of-an-array/1822-sign-of-the-product-of-an-array.py",
+          "sha": "833dd5996fb129ce4f428601032b2c6ffb5ac2fc",
+          "lastSyncedAt": "2026-11-13T17:31:31.582Z"
         }
       ]
     },
