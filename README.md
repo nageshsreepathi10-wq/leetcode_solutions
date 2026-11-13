@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 41 | 28 | 12 | 1 |
+| 43 | 30 | 12 | 1 |
 
 ## Activity
 
@@ -28,20 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-10-30 | 1 |
 | 2026-11-02 | 2 |
 | 2026-11-05 | 1 |
-| 2026-11-13 | 2 |
+| 2026-11-13 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 28 | 68% |
-| Sorting | 11 | 27% |
-| String | 11 | 27% |
-| Two Pointers | 11 | 27% |
-| Hash Table | 9 | 22% |
-| Binary Search | 8 | 20% |
-| Math | 6 | 15% |
-| Prefix Sum | 4 | 10% |
+| Array | 30 | 70% |
+| Sorting | 12 | 28% |
+| Two Pointers | 12 | 28% |
+| String | 11 | 26% |
+| Hash Table | 9 | 21% |
+| Binary Search | 8 | 19% |
+| Math | 7 | 16% |
+| Prefix Sum | 4 | 9% |
 | Counting | 3 | 7% |
 | Divide and Conquer | 3 | 7% |
 
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 29 |
+| [Array](Topics/array/) | 31 |
 | [Binary Search](Topics/binary-search/) | 8 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
@@ -62,7 +62,7 @@ Contains topicwise list of solved problems.
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 9 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
-| [Math](Topics/math/) | 7 |
+| [Math](Topics/math/) | 8 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
@@ -70,8 +70,8 @@ Contains topicwise list of solved problems.
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Quicksort](Topics/quicksort/) | 2 |
 | [Simulation](Topics/simulation/) | 2 |
-| [Sorting](Topics/sorting/) | 11 |
+| [Sorting](Topics/sorting/) | 12 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 11 |
-| [Two Pointers](Topics/two-pointers/) | 11 |
+| [Two Pointers](Topics/two-pointers/) | 12 |
 <!---LeetHub Summary End-->
