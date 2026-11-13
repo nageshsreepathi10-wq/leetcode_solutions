@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-05T11:43:52.939Z",
+  "updatedAt": "2026-11-13T17:11:53.407Z",
   "problems": [
     {
       "frontendId": "7",
@@ -64,6 +64,26 @@
           "path": "0069-sqrtx/0069-sqrtx.py",
           "sha": "c59beb3ccc15ca37628dbd1361a701d0e5d3ee39",
           "lastSyncedAt": "2026-10-27T15:39:30.761Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "258",
+      "title": "Add Digits",
+      "slug": "add-digits",
+      "problemName": "0258-add-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-digits/",
+      "folderPath": "0258-add-digits/",
+      "readmePath": "0258-add-digits/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0258-add-digits.py",
+          "path": "0258-add-digits/0258-add-digits.py",
+          "sha": "89fa5e30b73afb7219beb6ca5e0da5c215bfc840",
+          "lastSyncedAt": "2026-11-13T17:11:53.407Z"
         }
       ]
     },
