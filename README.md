@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 43 | 30 | 12 | 1 |
+| 44 | 30 | 13 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 8 days | 21 |
+| 1 days | 8 days | 22 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-25 | 1 |
 | 2026-09-26 | 1 |
 | 2026-09-27 | 1 |
 | 2026-10-01 | 1 |
@@ -29,17 +28,18 @@ Contains topicwise list of solved problems.
 | 2026-11-02 | 2 |
 | 2026-11-05 | 1 |
 | 2026-11-13 | 4 |
+| 2026-11-21 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 30 | 70% |
-| Sorting | 12 | 28% |
-| Two Pointers | 12 | 28% |
-| String | 11 | 26% |
-| Hash Table | 9 | 21% |
-| Binary Search | 8 | 19% |
+| Array | 31 | 70% |
+| Two Pointers | 13 | 30% |
+| Sorting | 12 | 27% |
+| String | 11 | 25% |
+| Hash Table | 9 | 20% |
+| Binary Search | 8 | 18% |
 | Math | 7 | 16% |
 | Prefix Sum | 4 | 9% |
 | Counting | 3 | 7% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 31 |
+| [Array](Topics/array/) | 32 |
 | [Binary Search](Topics/binary-search/) | 8 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
@@ -59,7 +59,7 @@ Contains topicwise list of solved problems.
 | [Counting](Topics/counting/) | 3 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
 | [Enumeration](Topics/enumeration/) | 1 |
-| [Greedy](Topics/greedy/) | 1 |
+| [Greedy](Topics/greedy/) | 2 |
 | [Hash Table](Topics/hash-table/) | 9 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Math](Topics/math/) | 8 |
@@ -73,5 +73,5 @@ Contains topicwise list of solved problems.
 | [Sorting](Topics/sorting/) | 12 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 11 |
-| [Two Pointers](Topics/two-pointers/) | 12 |
+| [Two Pointers](Topics/two-pointers/) | 13 |
 <!---LeetHub Summary End-->
